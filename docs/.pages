@@ -1,6 +1,6 @@
 nav:
  - 'Home': index.md
- - 'iPhone': iphone.md
+ - 'iPhone': iphone
  - 'Mac': mac.md
  - 'iPad': ipad.md
  - 'About': about.md
