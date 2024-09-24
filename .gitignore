@@ -1,1 +1,7 @@
+.idea
 .DS_Store
+*.swp
+venv
+.dccache
+site
+__pycache__
