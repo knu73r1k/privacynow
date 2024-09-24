@@ -1,7 +1,7 @@
-# Beskytt din informasjon på dine digitale enheter
+# Secure your information on your digital devices
 
-På denne siden skriver jeg forskjellige små artikler om hvordan du som en helt vanlig bruker kan beskytte dine data på de digitale enhetene du eier.
+On this page, you will find various short articles about how you - as an ordinary user, can protect your data on your private digital devices.
 
 ## Apple
 
-Jeg vil fokussere først og fremst på Apple enheter.
+Guidelines found on this page, is related to Apple devices.
