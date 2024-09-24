@@ -23,6 +23,6 @@ and the server will start on `127.0.0.1:8000`.
 To add content add markdown inside the `docs` folder, and link
 it from the rest of the site.
 
-## How to contribute
+### How to contribute
 
 Read the [CONTRIBUTING.md](CONTRIBUTING.md)
